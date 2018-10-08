@@ -1,0 +1,71 @@
+pesquisa_id,ano,tipo_id,tipo,data_pesquisa,instituto_id,instituto,cenario_id,cenario_descricao,candidatos_id,candidato,percentual,data_referencia,margem_mais,margem_menos
+8112,2018,2,Estimulada,2018-08-21,39,Datafolha,20522,cenário 1 estimulada - 1º turno,1723,Alvaro Dias,3.0,20-21.ago.2018,2.0,2.0
+8249,2018,2,Estimulada,2018-09-10,39,Datafolha,20875,estimulado - 1º turno,1723,Alvaro Dias,3.0,10.set.2018,2.0,2.0
+8272,2018,2,Estimulada,2018-09-14,39,Datafolha,20941,cenário estimulado - 1º turno,1723,Alvaro Dias,3.0,13-14.set.2018,2.0,2.0
+8299,2018,2,Estimulada,2018-09-19,39,Datafolha,21051,1º turno - estimulado,1723,Alvaro Dias,3.0,18-19.set.2018,2.0,2.0
+8392,2018,2,Estimulada,2018-09-28,39,Datafolha,21274,1º turno - estimulado,1723,Alvaro Dias,2.0,26-28.set.2018,2.0,2.0
+8433,2018,2,Estimulada,2018-10-02,39,Datafolha,21411,cenário estimulado - 1º turno,1723,Alvaro Dias,2.0,2-2.out.2018,2.0,2.0
+8449,2018,2,Estimulada,2018-10-04,39,Datafolha,21450,1º turno - estimulado,1723,Alvaro Dias,2.0,3-4.out.2018,2.0,2.0
+8112,2018,2,Estimulada,2018-08-21,39,Datafolha,20522,cenário 1 estimulada - 1º turno,4958,Cabo Daciolo,1.0,20-21.ago.2018,2.0,2.0
+8249,2018,2,Estimulada,2018-09-10,39,Datafolha,20875,estimulado - 1º turno,4958,Cabo Daciolo,1.0,10.set.2018,2.0,2.0
+8272,2018,2,Estimulada,2018-09-14,39,Datafolha,20941,cenário estimulado - 1º turno,4958,Cabo Daciolo,1.0,13-14.set.2018,2.0,2.0
+8299,2018,2,Estimulada,2018-09-19,39,Datafolha,21051,1º turno - estimulado,4958,Cabo Daciolo,0.0,18-19.set.2018,2.0,2.0
+8392,2018,2,Estimulada,2018-09-28,39,Datafolha,21274,1º turno - estimulado,4958,Cabo Daciolo,1.0,26-28.set.2018,2.0,2.0
+8433,2018,2,Estimulada,2018-10-02,39,Datafolha,21411,cenário estimulado - 1º turno,4958,Cabo Daciolo,2.0,2-2.out.2018,2.0,2.0
+8449,2018,2,Estimulada,2018-10-04,39,Datafolha,21450,1º turno - estimulado,4958,Cabo Daciolo,1.0,3-4.out.2018,2.0,2.0
+8112,2018,2,Estimulada,2018-08-21,39,Datafolha,20522,cenário 1 estimulada - 1º turno,289,Ciro,5.0,20-21.ago.2018,2.0,2.0
+8249,2018,2,Estimulada,2018-09-10,39,Datafolha,20875,estimulado - 1º turno,289,Ciro,13.0,10.set.2018,2.0,2.0
+8272,2018,2,Estimulada,2018-09-14,39,Datafolha,20941,cenário estimulado - 1º turno,289,Ciro,13.0,13-14.set.2018,2.0,2.0
+8299,2018,2,Estimulada,2018-09-19,39,Datafolha,21051,1º turno - estimulado,289,Ciro,13.0,18-19.set.2018,2.0,2.0
+8392,2018,2,Estimulada,2018-09-28,39,Datafolha,21274,1º turno - estimulado,289,Ciro,11.0,26-28.set.2018,2.0,2.0
+8433,2018,2,Estimulada,2018-10-02,39,Datafolha,21411,cenário estimulado - 1º turno,289,Ciro,11.0,2-2.out.2018,2.0,2.0
+8449,2018,2,Estimulada,2018-10-04,39,Datafolha,21450,1º turno - estimulado,289,Ciro,11.0,3-4.out.2018,2.0,2.0
+8112,2018,2,Estimulada,2018-08-21,39,Datafolha,20523,cenário 2 estimulada - 1º turno,508,Fernando Haddad,4.0,20-21.ago.2018,2.0,2.0
+8249,2018,2,Estimulada,2018-09-10,39,Datafolha,20875,estimulado - 1º turno,508,Fernando Haddad,9.0,10.set.2018,2.0,2.0
+8272,2018,2,Estimulada,2018-09-14,39,Datafolha,20941,cenário estimulado - 1º turno,508,Fernando Haddad,13.0,13-14.set.2018,2.0,2.0
+8299,2018,2,Estimulada,2018-09-19,39,Datafolha,21051,1º turno - estimulado,508,Fernando Haddad,16.0,18-19.set.2018,2.0,2.0
+8392,2018,2,Estimulada,2018-09-28,39,Datafolha,21274,1º turno - estimulado,508,Fernando Haddad,22.0,26-28.set.2018,2.0,2.0
+8433,2018,2,Estimulada,2018-10-02,39,Datafolha,21411,cenário estimulado - 1º turno,508,Fernando Haddad,21.0,2-2.out.2018,2.0,2.0
+8449,2018,2,Estimulada,2018-10-04,39,Datafolha,21450,1º turno - estimulado,508,Fernando Haddad,22.0,3-4.out.2018,2.0,2.0
+8112,2018,2,Estimulada,2018-08-21,39,Datafolha,20522,cenário 1 estimulada - 1º turno,575,Alckmin,6.0,20-21.ago.2018,2.0,2.0
+8249,2018,2,Estimulada,2018-09-10,39,Datafolha,20875,estimulado - 1º turno,575,Alckmin,10.0,10.set.2018,2.0,2.0
+8272,2018,2,Estimulada,2018-09-14,39,Datafolha,20941,cenário estimulado - 1º turno,575,Alckmin,9.0,13-14.set.2018,2.0,2.0
+8299,2018,2,Estimulada,2018-09-19,39,Datafolha,21051,1º turno - estimulado,575,Alckmin,9.0,18-19.set.2018,2.0,2.0
+8392,2018,2,Estimulada,2018-09-28,39,Datafolha,21274,1º turno - estimulado,575,Alckmin,10.0,26-28.set.2018,2.0,2.0
+8433,2018,2,Estimulada,2018-10-02,39,Datafolha,21411,cenário estimulado - 1º turno,575,Alckmin,9.0,2-2.out.2018,2.0,2.0
+8449,2018,2,Estimulada,2018-10-04,39,Datafolha,21450,1º turno - estimulado,575,Alckmin,8.0,3-4.out.2018,2.0,2.0
+8112,2018,2,Estimulada,2018-08-21,39,Datafolha,20522,cenário 1 estimulada - 1º turno,626,Guilherme Boulos,1.0,20-21.ago.2018,2.0,2.0
+8249,2018,2,Estimulada,2018-09-10,39,Datafolha,20875,estimulado - 1º turno,626,Guilherme Boulos,1.0,10.set.2018,2.0,2.0
+8272,2018,2,Estimulada,2018-09-14,39,Datafolha,20941,cenário estimulado - 1º turno,626,Guilherme Boulos,1.0,13-14.set.2018,2.0,2.0
+8299,2018,2,Estimulada,2018-09-19,39,Datafolha,21051,1º turno - estimulado,626,Guilherme Boulos,1.0,18-19.set.2018,2.0,2.0
+8392,2018,2,Estimulada,2018-09-28,39,Datafolha,21274,1º turno - estimulado,626,Guilherme Boulos,1.0,26-28.set.2018,2.0,2.0
+8433,2018,2,Estimulada,2018-10-02,39,Datafolha,21411,cenário estimulado - 1º turno,626,Guilherme Boulos,0.0,2-2.out.2018,2.0,2.0
+8449,2018,2,Estimulada,2018-10-04,39,Datafolha,21450,1º turno - estimulado,626,Guilherme Boulos,0.0,3-4.out.2018,2.0,2.0
+8112,2018,2,Estimulada,2018-08-21,39,Datafolha,20522,cenário 1 estimulada - 1º turno,648,Henrique Meirelles,1.0,20-21.ago.2018,2.0,2.0
+8249,2018,2,Estimulada,2018-09-10,39,Datafolha,20875,estimulado - 1º turno,648,Henrique Meirelles,3.0,10.set.2018,2.0,2.0
+8272,2018,2,Estimulada,2018-09-14,39,Datafolha,20941,cenário estimulado - 1º turno,648,Henrique Meirelles,3.0,13-14.set.2018,2.0,2.0
+8299,2018,2,Estimulada,2018-09-19,39,Datafolha,21051,1º turno - estimulado,648,Henrique Meirelles,2.0,18-19.set.2018,2.0,2.0
+8392,2018,2,Estimulada,2018-09-28,39,Datafolha,21274,1º turno - estimulado,648,Henrique Meirelles,2.0,26-28.set.2018,2.0,2.0
+8433,2018,2,Estimulada,2018-10-02,39,Datafolha,21411,cenário estimulado - 1º turno,648,Henrique Meirelles,2.0,2-2.out.2018,2.0,2.0
+8449,2018,2,Estimulada,2018-10-04,39,Datafolha,21450,1º turno - estimulado,648,Henrique Meirelles,2.0,3-4.out.2018,2.0,2.0
+8112,2018,2,Estimulada,2018-08-21,39,Datafolha,20522,cenário 1 estimulada - 1º turno,1076,Marina,8.0,20-21.ago.2018,2.0,2.0
+8249,2018,2,Estimulada,2018-09-10,39,Datafolha,20875,estimulado - 1º turno,1076,Marina,11.0,10.set.2018,2.0,2.0
+8272,2018,2,Estimulada,2018-09-14,39,Datafolha,20941,cenário estimulado - 1º turno,1076,Marina,8.0,13-14.set.2018,2.0,2.0
+8299,2018,2,Estimulada,2018-09-19,39,Datafolha,21051,1º turno - estimulado,1076,Marina,7.0,18-19.set.2018,2.0,2.0
+8392,2018,2,Estimulada,2018-09-28,39,Datafolha,21274,1º turno - estimulado,1076,Marina,5.0,26-28.set.2018,2.0,2.0
+8433,2018,2,Estimulada,2018-10-02,39,Datafolha,21411,cenário estimulado - 1º turno,1076,Marina,4.0,2-2.out.2018,2.0,2.0
+8449,2018,2,Estimulada,2018-10-04,39,Datafolha,21450,1º turno - estimulado,1076,Marina,4.0,3-4.out.2018,2.0,2.0
+8112,2018,2,Estimulada,2018-08-21,39,Datafolha,20522,cenário 1 estimulada - 1º turno,706,Bolsonaro,19.0,20-21.ago.2018,2.0,2.0
+8249,2018,2,Estimulada,2018-09-10,39,Datafolha,20875,estimulado - 1º turno,706,Bolsonaro,24.0,10.set.2018,2.0,2.0
+8272,2018,2,Estimulada,2018-09-14,39,Datafolha,20941,cenário estimulado - 1º turno,706,Bolsonaro,26.0,13-14.set.2018,2.0,2.0
+8299,2018,2,Estimulada,2018-09-19,39,Datafolha,21051,1º turno - estimulado,706,Bolsonaro,28.0,18-19.set.2018,2.0,2.0
+8392,2018,2,Estimulada,2018-09-28,39,Datafolha,21274,1º turno - estimulado,706,Bolsonaro,28.0,26-28.set.2018,2.0,2.0
+8433,2018,2,Estimulada,2018-10-02,39,Datafolha,21411,cenário estimulado - 1º turno,706,Bolsonaro,32.0,2-2.out.2018,2.0,2.0
+8449,2018,2,Estimulada,2018-10-04,39,Datafolha,21450,1º turno - estimulado,706,Bolsonaro,35.0,3-4.out.2018,2.0,2.0
+8112,2018,2,Estimulada,2018-08-21,39,Datafolha,20522,cenário 1 estimulada - 1º turno,841,João Amoêdo,2.0,20-21.ago.2018,2.0,2.0
+8249,2018,2,Estimulada,2018-09-10,39,Datafolha,20875,estimulado - 1º turno,841,João Amoêdo,3.0,10.set.2018,2.0,2.0
+8272,2018,2,Estimulada,2018-09-14,39,Datafolha,20941,cenário estimulado - 1º turno,841,João Amoêdo,3.0,13-14.set.2018,2.0,2.0
+8299,2018,2,Estimulada,2018-09-19,39,Datafolha,21051,1º turno - estimulado,841,João Amoêdo,3.0,18-19.set.2018,2.0,2.0
+8392,2018,2,Estimulada,2018-09-28,39,Datafolha,21274,1º turno - estimulado,841,João Amoêdo,3.0,26-28.set.2018,2.0,2.0
+8433,2018,2,Estimulada,2018-10-02,39,Datafolha,21411,cenário estimulado - 1º turno,841,João Amoêdo,3.0,2-2.out.2018,2.0,2.0
+8449,2018,2,Estimulada,2018-10-04,39,Datafolha,21450,1º turno - estimulado,841,João Amoêdo,3.0,3-4.out.2018,2.0,2.0

@@ -1,0 +1,70 @@
+pesquisa_id,ano,tipo_id,tipo,data_pesquisa,instituto_id,instituto,cenario_id,cenario_descricao,candidatos_id,candidato,percentual,data_referencia,margem_mais,margem_menos
+8112,2018,3,Rejeição,2018-08-21,39,Datafolha,20524,rejeição,1723,Alvaro Dias,16.0,20-21.ago.2018,2.0,2.0
+8249,2018,3,Rejeição,2018-09-10,39,Datafolha,20876,rejeição,1723,Alvaro Dias,14.0,10.set.2018,2.0,2.0
+8272,2018,3,Rejeição,2018-09-14,39,Datafolha,20942,rejeição,1723,Alvaro Dias,16.0,13-14.set.2018,2.0,2.0
+8299,2018,3,Rejeição,2018-09-19,39,Datafolha,21052,rejeição,1723,Alvaro Dias,15.0,18-19.set.2018,2.0,2.0
+8392,2018,3,Rejeição,2018-09-28,39,Datafolha,21281,rejeição,1723,Alvaro Dias,15.0,26-28.set.2018,2.0,2.0
+8433,2018,3,Rejeição,2018-10-02,39,Datafolha,21412,rejeição,1723,Alvaro Dias,13.0,2-2.out.2018,2.0,2.0
+8449,2018,3,Rejeição,2018-10-04,39,Datafolha,21452,rejeição,1723,Alvaro Dias,13.0,3-4.out.2018,2.0,2.0
+8112,2018,3,Rejeição,2018-08-21,39,Datafolha,20524,rejeição,4958,Cabo Daciolo,20.0,20-21.ago.2018,2.0,2.0
+8249,2018,3,Rejeição,2018-09-10,39,Datafolha,20876,rejeição,4958,Cabo Daciolo,19.0,10.set.2018,2.0,2.0
+8272,2018,3,Rejeição,2018-09-14,39,Datafolha,20942,rejeição,4958,Cabo Daciolo,18.0,13-14.set.2018,2.0,2.0
+8299,2018,3,Rejeição,2018-09-19,39,Datafolha,21052,rejeição,4958,Cabo Daciolo,19.0,18-19.set.2018,2.0,2.0
+8392,2018,3,Rejeição,2018-09-28,39,Datafolha,21281,rejeição,4958,Cabo Daciolo,17.0,26-28.set.2018,2.0,2.0
+8433,2018,3,Rejeição,2018-10-02,39,Datafolha,21412,rejeição,4958,Cabo Daciolo,14.0,2-2.out.2018,2.0,2.0
+8449,2018,3,Rejeição,2018-10-04,39,Datafolha,21452,rejeição,4958,Cabo Daciolo,14.0,3-4.out.2018,2.0,2.0
+8112,2018,3,Rejeição,2018-08-21,39,Datafolha,20524,rejeição,289,Ciro,23.0,20-21.ago.2018,2.0,2.0
+8249,2018,3,Rejeição,2018-09-10,39,Datafolha,20876,rejeição,289,Ciro,20.0,10.set.2018,2.0,2.0
+8272,2018,3,Rejeição,2018-09-14,39,Datafolha,20942,rejeição,289,Ciro,21.0,13-14.set.2018,2.0,2.0
+8299,2018,3,Rejeição,2018-09-19,39,Datafolha,21052,rejeição,289,Ciro,22.0,18-19.set.2018,2.0,2.0
+8392,2018,3,Rejeição,2018-09-28,39,Datafolha,21281,rejeição,289,Ciro,21.0,26-28.set.2018,2.0,2.0
+8433,2018,3,Rejeição,2018-10-02,39,Datafolha,21412,rejeição,289,Ciro,22.0,2-2.out.2018,2.0,2.0
+8449,2018,3,Rejeição,2018-10-04,39,Datafolha,21452,rejeição,289,Ciro,21.0,3-4.out.2018,2.0,2.0
+8112,2018,3,Rejeição,2018-08-21,39,Datafolha,20524,rejeição,508,Fernando Haddad,21.0,20-21.ago.2018,2.0,2.0
+8249,2018,3,Rejeição,2018-09-10,39,Datafolha,20876,rejeição,508,Fernando Haddad,22.0,10.set.2018,2.0,2.0
+8272,2018,3,Rejeição,2018-09-14,39,Datafolha,20942,rejeição,508,Fernando Haddad,26.0,13-14.set.2018,2.0,2.0
+8299,2018,3,Rejeição,2018-09-19,39,Datafolha,21052,rejeição,508,Fernando Haddad,29.0,18-19.set.2018,2.0,2.0
+8392,2018,3,Rejeição,2018-09-28,39,Datafolha,21281,rejeição,508,Fernando Haddad,32.0,26-28.set.2018,2.0,2.0
+8433,2018,3,Rejeição,2018-10-02,39,Datafolha,21412,rejeição,508,Fernando Haddad,41.0,2-2.out.2018,2.0,2.0
+8449,2018,3,Rejeição,2018-10-04,39,Datafolha,21452,rejeição,508,Fernando Haddad,40.0,3-4.out.2018,2.0,2.0
+8112,2018,3,Rejeição,2018-08-21,39,Datafolha,20524,rejeição,575,Alckmin,26.0,20-21.ago.2018,2.0,2.0
+8249,2018,3,Rejeição,2018-09-10,39,Datafolha,20876,rejeição,575,Alckmin,24.0,10.set.2018,2.0,2.0
+8272,2018,3,Rejeição,2018-09-14,39,Datafolha,20942,rejeição,575,Alckmin,25.0,13-14.set.2018,2.0,2.0
+8299,2018,3,Rejeição,2018-09-19,39,Datafolha,21052,rejeição,575,Alckmin,24.0,18-19.set.2018,2.0,2.0
+8433,2018,3,Rejeição,2018-10-02,39,Datafolha,21412,rejeição,575,Alckmin,24.0,2-2.out.2018,2.0,2.0
+8449,2018,3,Rejeição,2018-10-04,39,Datafolha,21452,rejeição,575,Alckmin,24.0,3-4.out.2018,2.0,2.0
+8112,2018,3,Rejeição,2018-08-21,39,Datafolha,20524,rejeição,626,Guilherme Boulos,18.0,20-21.ago.2018,2.0,2.0
+8249,2018,3,Rejeição,2018-09-10,39,Datafolha,20876,rejeição,626,Guilherme Boulos,17.0,10.set.2018,2.0,2.0
+8272,2018,3,Rejeição,2018-09-14,39,Datafolha,20942,rejeição,626,Guilherme Boulos,17.0,13-14.set.2018,2.0,2.0
+8299,2018,3,Rejeição,2018-09-19,39,Datafolha,21052,rejeição,626,Guilherme Boulos,18.0,18-19.set.2018,2.0,2.0
+8392,2018,3,Rejeição,2018-09-28,39,Datafolha,21281,rejeição,626,Guilherme Boulos,17.0,26-28.set.2018,2.0,2.0
+8433,2018,3,Rejeição,2018-10-02,39,Datafolha,21412,rejeição,626,Guilherme Boulos,15.0,2-2.out.2018,2.0,2.0
+8449,2018,3,Rejeição,2018-10-04,39,Datafolha,21452,rejeição,626,Guilherme Boulos,14.0,3-4.out.2018,2.0,2.0
+8112,2018,3,Rejeição,2018-08-21,39,Datafolha,20524,rejeição,648,Henrique Meirelles,21.0,20-21.ago.2018,2.0,2.0
+8249,2018,3,Rejeição,2018-09-10,39,Datafolha,20876,rejeição,648,Henrique Meirelles,17.0,10.set.2018,2.0,2.0
+8272,2018,3,Rejeição,2018-09-14,39,Datafolha,20942,rejeição,648,Henrique Meirelles,17.0,13-14.set.2018,2.0,2.0
+8299,2018,3,Rejeição,2018-09-19,39,Datafolha,21052,rejeição,648,Henrique Meirelles,17.0,18-19.set.2018,2.0,2.0
+8392,2018,3,Rejeição,2018-09-28,39,Datafolha,21281,rejeição,648,Henrique Meirelles,16.0,26-28.set.2018,2.0,2.0
+8433,2018,3,Rejeição,2018-10-02,39,Datafolha,21412,rejeição,648,Henrique Meirelles,15.0,2-2.out.2018,2.0,2.0
+8449,2018,3,Rejeição,2018-10-04,39,Datafolha,21452,rejeição,648,Henrique Meirelles,15.0,3-4.out.2018,2.0,2.0
+8112,2018,3,Rejeição,2018-08-21,39,Datafolha,20524,rejeição,1076,Marina,25.0,20-21.ago.2018,2.0,2.0
+8249,2018,3,Rejeição,2018-09-10,39,Datafolha,20876,rejeição,1076,Marina,29.0,10.set.2018,2.0,2.0
+8272,2018,3,Rejeição,2018-09-14,39,Datafolha,20942,rejeição,1076,Marina,30.0,13-14.set.2018,2.0,2.0
+8299,2018,3,Rejeição,2018-09-19,39,Datafolha,21052,rejeição,1076,Marina,32.0,18-19.set.2018,2.0,2.0
+8392,2018,3,Rejeição,2018-09-28,39,Datafolha,21281,rejeição,1076,Marina,28.0,26-28.set.2018,2.0,2.0
+8433,2018,3,Rejeição,2018-10-02,39,Datafolha,21412,rejeição,1076,Marina,30.0,2-2.out.2018,2.0,2.0
+8449,2018,3,Rejeição,2018-10-04,39,Datafolha,21452,rejeição,1076,Marina,28.0,3-4.out.2018,2.0,2.0
+8112,2018,3,Rejeição,2018-08-21,39,Datafolha,20524,rejeição,706,Bolsonaro,39.0,20-21.ago.2018,2.0,2.0
+8249,2018,3,Rejeição,2018-09-10,39,Datafolha,20876,rejeição,706,Bolsonaro,43.0,10.set.2018,2.0,2.0
+8272,2018,3,Rejeição,2018-09-14,39,Datafolha,20942,rejeição,706,Bolsonaro,44.0,13-14.set.2018,2.0,2.0
+8299,2018,3,Rejeição,2018-09-19,39,Datafolha,21052,rejeição,706,Bolsonaro,43.0,18-19.set.2018,2.0,2.0
+8392,2018,3,Rejeição,2018-09-28,39,Datafolha,21281,rejeição,706,Bolsonaro,46.0,26-28.set.2018,2.0,2.0
+8433,2018,3,Rejeição,2018-10-02,39,Datafolha,21412,rejeição,706,Bolsonaro,45.0,2-2.out.2018,2.0,2.0
+8449,2018,3,Rejeição,2018-10-04,39,Datafolha,21452,rejeição,706,Bolsonaro,45.0,3-4.out.2018,2.0,2.0
+8112,2018,3,Rejeição,2018-08-21,39,Datafolha,20524,rejeição,841,João Amoêdo,17.0,20-21.ago.2018,2.0,2.0
+8249,2018,3,Rejeição,2018-09-10,39,Datafolha,20876,rejeição,841,João Amoêdo,15.0,10.set.2018,2.0,2.0
+8272,2018,3,Rejeição,2018-09-14,39,Datafolha,20942,rejeição,841,João Amoêdo,15.0,13-14.set.2018,2.0,2.0
+8299,2018,3,Rejeição,2018-09-19,39,Datafolha,21052,rejeição,841,João Amoêdo,15.0,18-19.set.2018,2.0,2.0
+8392,2018,3,Rejeição,2018-09-28,39,Datafolha,21281,rejeição,841,João Amoêdo,14.0,26-28.set.2018,2.0,2.0
+8433,2018,3,Rejeição,2018-10-02,39,Datafolha,21412,rejeição,841,João Amoêdo,12.0,2-2.out.2018,2.0,2.0
+8449,2018,3,Rejeição,2018-10-04,39,Datafolha,21452,rejeição,841,João Amoêdo,11.0,3-4.out.2018,2.0,2.0
